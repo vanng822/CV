@@ -1,6 +1,18 @@
 # CV
-## KEYWORDS
-Kotlin, Python, Golang, Nodejs, C, JavaScript, PHP \
-PostgreSQL, MySQL, Redis, CouchDB, MongoDB \
-Spring Boot, Pyramid, Flask, aiohttp, Celery, Expressjs, ReactJS, NextJS, React Native \
-Solr, ElasticSearch, Docker, Nginx, Centos, Ubuntu, Agile
+
+## Keywords
+
+**Languages**  
+Kotlin • Python • Golang • Node.js • C • JavaScript • PHP
+
+**Databases**  
+PostgreSQL • MySQL • Redis • CouchDB • MongoDB
+
+**Frameworks & Libraries**  
+Spring Boot • Pyramid • Flask • aiohttp • Celery • Express.js • React • Next.js • React Native
+
+**Search & Messaging**  
+Solr • Elasticsearch • Kafka
+
+**DevOps & Tools**  
+Docker • Nginx • CentOS • Ubuntu • Agile • AWS • GCP
