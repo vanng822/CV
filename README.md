@@ -9,7 +9,7 @@ Kotlin • Python • Golang • Node.js • C • JavaScript • PHP
 PostgreSQL • MySQL • Redis • CouchDB • MongoDB
 
 **Frameworks & Libraries**  
-Spring Boot • Pyramid • Flask • aiohttp • Celery • Express.js • React • Next.js • React Native
+Spring Boot • Pyramid • Flask • aiohttp • Celery • Express.js • React • Next.js • Flutter • React Native
 
 **Search & Messaging**  
 Solr • Elasticsearch • Kafka
