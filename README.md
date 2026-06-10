@@ -3,16 +3,16 @@
 ## Keywords
 
 **Languages**  
-Kotlin • Python • Golang • Node.js • C • JavaScript • PHP
+Kotlin • Golang • Java • Python • JavaScript • C • PHP
 
 **Databases**  
 PostgreSQL • MySQL • Redis • CouchDB • MongoDB
 
 **Frameworks & Libraries**  
-Spring Boot • Pyramid • Flask • aiohttp • Celery • Express.js • React • Next.js • Flutter • React Native
+Spring Boot • Pyramid • Flask • aiohttp • Celery • Express.js • React • Node.js • Next.js • Flutter • React Native
 
 **Search & Messaging**  
 Solr • Elasticsearch • Kafka
 
 **DevOps & Tools**  
-Docker • Nginx • CentOS • Ubuntu • Agile • AWS • GCP
+Docker • Nginx • CentOS • Ubuntu • AWS • GCP
